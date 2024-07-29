@@ -23,12 +23,6 @@ This repository contains an Average Calculator microservice that exposes a REST 
 - Python 3.7+ installed on your machine.
 - Required Python packages listed in requirements.txt.
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/average-calculator-microservice.git
-   cd average-calculator-microservice
 
 
 <h1>Q2</h1>
@@ -40,7 +34,7 @@ This repository contains a React-based web application designed to display a lis
 ## Project Structure
 
 - **React Application**:
-  - `src/App.js`: Main React application file that handles product fetching and display.
+  - `src/react.js`: Main React application file that handles product fetching and display.
   - `src/styles.css`: CSS file for styling the React application.
 
 ## Features
