@@ -33,9 +33,9 @@ This repository contains an Average Calculator microservice that exposes a REST 
 
 <h1>Q2</h1>
 
-# Top N Products Web Application
+# eCommerce React Application
 
-This repository contains a React-based web application designed to display a list of top N products based on various criteria.
+This repository contains a React-based web application designed to display a list of top products based on various criteria.
 
 ## Project Structure
 
@@ -46,7 +46,9 @@ This repository contains a React-based web application designed to display a lis
 ## Features
 
 - Fetches and displays a list of products based on company, category, and other criteria.
-- Shows product details including price, rating, and availability.
-- Provides a responsive design for viewing product information.
+- Shows detailed information for each product, including price, rating, discount, and availability.
+- Provides a responsive design for optimal viewing on various devices.
+
+
 
   
