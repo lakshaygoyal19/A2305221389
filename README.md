@@ -34,8 +34,8 @@ This repository contains a React-based web application designed to display a lis
 ## Project Structure
 
 - **React Application**:
-  - `src/react.js`: Main React application file that handles product fetching and display.
-  - `src/styles.css`: CSS file for styling the React application.
+  - `react.js`: Main React application file that handles product fetching and display.
+  - `styles.css`: CSS file for styling the React application.
 
 ## Features
 
